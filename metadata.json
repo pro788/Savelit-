@@ -1,0 +1,6 @@
+{
+  "name": "Saveit - Save For Later Mobile App",
+  "description": "A pocket-style mobile save-for-later app featuring notes, links, images, tag organization, cloud sync, privacy vault, and mobile share integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
